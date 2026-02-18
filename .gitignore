@@ -1,0 +1,99 @@
+# 환경 변수 및 민감 정보
+.env
+.env.local
+.env.*.local
+*.env
+
+# GitHub 토큰 (절대 커밋 금지!)
+.github_token
+github_token.txt
+
+# Discord 웹훅 URL (민감 정보)
+.discord_webhook
+
+# API 키 파일
+api_keys.txt
+*.key
+*.pem
+*.crt
+
+# Python 관련
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 가상환경
+venv/
+ENV/
+env/
+.venv
+
+# 로그 파일
+*.log
+logs/
+*.log.*
+bitget_realtime_trading.log*
+
+# 데이터 파일
+*.csv
+*.json
+*.pkl
+*.pickle
+data/
+backups/
+
+# IDE 관련
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 테스트 관련
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# 임시 파일
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Cloud-Init 수정본 (민감 정보 포함)
+cloud-init-userdata-configured.yml
+cloud-init-userdata-production.yml
+cloud-init-userdata.yml
+
+# 전략 파일
+strategy.py
+squeeze_momentum_strategy_partial_close_real_trading.py
+squeeze_momentum_strategy_test.py
+squeeze_momentum_strategy.py
+
+
