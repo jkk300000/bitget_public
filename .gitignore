@@ -95,5 +95,5 @@ strategy.py
 squeeze_momentum_strategy_partial_close_real_trading.py
 squeeze_momentum_strategy_test.py
 squeeze_momentum_strategy.py
-
+SQUEEZE_MOMENTUM_BITCOIN_ATR_STRATEGY_PARTIAL_CLOSE.pine
 

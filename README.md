@@ -46,6 +46,18 @@ bitget/
 └──README.md                        # 이 파일
 
 ```
+## 사용 기술
+
+- cursor ai : 코드 작성 효율성
+- python : htf 같은 고빈도 거래 처럼 속도가 중요하지 않기 때문에 간편한 파이썬 사용
+- ta-lib : 기술적 지표 계산
+- ccxt : 여러 암호화폐 거래소 api를 정리해놓은 라이브러리
+- pandas : 데이터 정합성 및 지표 계산
+- numpy : 지표 계산
+- vultr : 간편한 클라우드 서버 서비스
+- ubuntu : vultr에서 제공하는 ubuntu
+
+---
 
 ## 🔧 시스템 요구사항
 
