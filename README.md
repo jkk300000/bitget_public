@@ -34,14 +34,14 @@ bitget/
 ├── bitget_client.py                 # WebSocket 클라이언트
 ├── bitget_account.py                # 계정 관리 (CCXT)
 ├── data_manager.py                  # 데이터 관리 및 리샘플링
-├── strategy.py                      # 거래 전략
+├── strategy.py                      # 거래 전략(Git 제외)
 ├── risk_manager.py                  # 리스크 관리
 ├── indicators.py                    # 기술적 지표 계산
 ├── data_recovery.py                 # 데이터 복구
 ├── check_api_keys.py                # API 키 테스트
 ├── requirements.txt                 # Python 패키지 의존성
 ├── .env                             # 환경 변수 (Git 제외)
-├── cloud-init-userdata.yml          # Vultr Cloud-Init 스크립트
+├── cloud-init-userdata.yml          # Vultr Cloud-Init 스크립트(Git 제외)
 ├── setup-cloud-init.sh              # Cloud-Init 자동 설정 스크립트
 └──README.md                        # 이 파일
 
