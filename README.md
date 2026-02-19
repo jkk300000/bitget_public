@@ -12,7 +12,7 @@
 ### 📊 기술적 지표
 - **ATR (Average True Range)**: 변동성 측정
 - **Squeeze Momentum**: 볼린저 밴드 + 켈트너 채널 기반 모멘텀
-- **Support/Resistance**: 자동 지지/저항 레벨 계산
+
 
 ### 💰 전략 기능
 - **복리 투자**: 수익 자동 재투자
